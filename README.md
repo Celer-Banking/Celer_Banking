@@ -9,4 +9,4 @@ Funcionalidades
   
 Objetivo: Desenvolver um aplicativo web para empréstimos P2P lending entre os usuários.
 
-Integrantes: Wesley Gomes, Vinicius Tork, Fabian Pfeiff e Lucas Soares
+Integrantes: Wesley Gomes (wesleygabrielpg2@gmail.com), Vinicius Tork, Fabian Pfeiff e Lucas Soares
